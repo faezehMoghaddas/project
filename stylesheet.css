@@ -1,0 +1,17 @@
+.num1
+{
+    width: calc(66.66%-1rem);
+    height: 50px;
+    padding: 20px;
+    
+    float: left;
+}
+
+.num2
+{
+    width: 33.33%;
+    height: 50px;
+    padding: 20px;
+    float: left;
+
+}
